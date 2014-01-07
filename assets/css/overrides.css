@@ -1,0 +1,30 @@
+code.has-jax {
+    font: inherit; 
+    font-size: 100%; 
+    background: inherit; 
+    border: inherit;
+}
+
+img.alignright {
+    margin: 0 0 10px 10px !important;
+    display: inline;
+    float: right;
+}
+
+img.alignleft {
+    margin: 0 10px 10px 0 !important;
+    display: inline;
+    float: left;
+}
+
+blockquote {
+    font-size: 0.9em;
+    margin: 0 25px 15px 25px;
+    padding: 10px 15px 0 15px;
+    border: 0;
+}
+
+.site-title,
+.site-description {
+    display: none;
+}
