@@ -22,7 +22,8 @@ Here's a great excuse to eat a lot of chocolate in the name of science.
 <a href="http://commons.wikimedia.org/wiki/Image:Light-wave.png"><img class="alignright" style="padding:0 10px;" title="Electromagnetic (light) Wave" src="http://upload.wikimedia.org/wikipedia/commons/3/30/Light-wave.png" alt="Standard electromagnetic (light) wave." width="266" height="139" /></a>
 
 First of all, you need to understand that microwaves are just electromagnetic waves with a certain frequency and wavelength just like visible light. <em>Wavelength</em> is the length between consecutive peaks of the wave. It's a very intuitive name. You can see it labeled in the picture to the right as the Greek letter "lambda" (λ). Since waves propagate (move), we can also define a quantity called the <em>frequency</em>. <em>Frequency</em> is the number of peaks of a wave that pass a certain fixed point per second. Wavelength is a measure of <em>distance</em>, and frequency is a measure of <em>one divided by time</em>. So to find the speed ("<em>c</em>") of the wave, you just need to multiply these two quantities together:
-<p style="padding-left:30px;"><em><strong>c </strong></em><strong>:=</strong><em><strong> </strong></em><strong>speed</strong><strong> = (</strong><strong>distance</strong><strong>) x (1/</strong><strong>time</strong><strong>) = (</strong><strong>frequency</strong><strong>) x (</strong><strong>wavelength</strong><strong>)</strong></p>
+
+c := speed of light = (distance) x (1/time) = (frequency) x (wavelength)
 
 <a href="http://morningcoffeephysics.files.wordpress.com/2008/10/img_0021.jpg"><img class="size-medium wp-image-170       alignleft" title="Back of microwave oven" src="http://morningcoffeephysics.files.wordpress.com/2008/10/img_0021.jpg?w=300" alt="" width="231" height="174" /></a>
 
